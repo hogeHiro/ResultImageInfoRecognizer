@@ -1,1 +1,2 @@
 # ResultImageInfoRecognizer
+音ゲーのリザルト画像から、画像認識でスコアやミスカンを自動抽出するツール
