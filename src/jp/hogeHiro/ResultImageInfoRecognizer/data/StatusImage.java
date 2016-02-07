@@ -1,4 +1,5 @@
 package jp.hogeHiro.ResultImageInfoRecognizer.data;
-public class Image {
+
+public class StatusImage extends Image {
 
 }
